@@ -63,7 +63,7 @@
 
 
  “Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple.”  
-- Steve Jobs
+-- Steve Jobs
 
 ---
 
