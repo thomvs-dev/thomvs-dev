@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/hoXoG1Wm_FcAAAAC/hi-dog.gif"  />
+<img align="left" height="160" src="https://media1.tenor.com/m/hoXoG1Wm_FcAAAAC/hi-dog.gif"  />
 
 ###
 
