@@ -14,7 +14,6 @@
 - 🛰️ previously: FPGA radar signal processing at **DRDO**, COMSOL + energy-harvesting sensor networks at **IIIT Allahabad**
 - 📝 first paper (HEART-CH) under review at IEEE Internet of Things Journal
 - 🔭 into: in-memory computing, low-power VLSI, RISC-V, domain-specific accelerators, RTL-to-GDS
-- 🏆 PM Sarvottam Trophy scholar, and won an industry-academia meet pitching my FPGA ECG accelerator
 
 ### 🚀 latest builds
 
